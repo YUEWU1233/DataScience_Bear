@@ -25,3 +25,25 @@ https://raw.githubusercontent.com/YUEWU1233/DataScience_Bear/main/Dataset/gross%
 
 quickfix.csv :
 https://raw.githubusercontent.com/YUEWU1233/DataScience_Bear/main/Dataset/quickfix.csv
+
+Link for dataset source:
+
+1984-2022_household_income_medium_states.csv :
+https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html 
+
+AverageScoreUS.csv :
+
+
+Expenditure per pupil.csv :
+
+
+PM2.5.csv :
+https://redivis.com/datasets/4ywm-5ykvbcmpw/tables?tablesList-variableNames=Date,Daily_Mean_PM10_Concentration,Daily_Mean_PM2_5_Concentration,STATE,STATE_CODE&tablesList-tableToken=tablesList
+
+coal.csv :
+
+
+gross domestic product (gdp) by state (dollars).csv :
+
+quickfix.csv :
+
