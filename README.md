@@ -32,7 +32,7 @@ Link for dataset source:
 https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html 
 
 AverageScoreUS.csv :
-
+https://usafacts.org/data/topics/people-society/education/k-12-education/sat-avg-score-mathematics/
 
 Expenditure per pupil.csv :
 
