@@ -5,7 +5,7 @@ https://colab.research.google.com/drive/1N8af-kdrEFnyo7YnPat5ddp6cLa0HGrq#scroll
 
 Link for raw dataset:
 
-984-2022_household_income_medium_states.csv :
+1984-2022_household_income_medium_states.csv :
 https://raw.githubusercontent.com/YUEWU1233/DataScience_Bear/main/Dataset/1984-2022_household_income_medium_states.csv
 
 AverageScoreUS.csv :
