@@ -26,6 +26,9 @@ https://raw.githubusercontent.com/YUEWU1233/DataScience_Bear/main/Dataset/gross%
 quickfix.csv :
 https://raw.githubusercontent.com/YUEWU1233/DataScience_Bear/main/Dataset/quickfix.csv
 
+Stata export:
+https://raw.githubusercontent.com/YUEWU1233/DataScience_Bear/main/Dataset/stata_export.csv
+
 Link for dataset source:
 
 1984-2022_household_income_medium_states.csv :
