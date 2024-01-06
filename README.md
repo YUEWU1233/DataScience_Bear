@@ -5,7 +5,6 @@ https://colab.research.google.com/drive/1sDeib2vf6_4g0rzq0kTdVjV7mIbsKh1f
 
 Link for Vehicle emission regulation:
 
-https://en.wikipedia.org/wiki/United_States_vehicle_emission_standards
 https://ww2.arb.ca.gov/sites/default/files/2022-01/177_states_12062021_nada_sales.pdf
 
 Link for raw dataset:
